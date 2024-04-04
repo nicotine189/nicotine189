@@ -1,6 +1,6 @@
 Hi 👋 My name is Nicolas Perrotin
 
-After 20 years in operations, I have decided to go further in coding with actually doing it ! 
+After 20 years in operations, I have decided to go further in coding ! 
 And guess what ? I do love it !
 
  	🌍  I'm based in Rambouillet 
