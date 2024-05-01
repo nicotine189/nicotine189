@@ -4,7 +4,7 @@ After 20 years in operations, I have decided to go further in coding !
 And guess what ? I do love it !
 
  	🌍  I'm based in Rambouillet 
- 	🧠  I am learning Python. Just started linear algebra... my head hurts !
+ 	🧠  Loving Python, and starting a new chapter of my venture in coding with JAVA !
  	⚡  I love swimming : last year, I made my first 10k in the Annecy lake !
 
 ### Skills
